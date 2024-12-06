@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
-import theme11 from "../../assets/images/themes/theme01.png";
-import theme33 from "../../assets/images/themes/theme33.JPEG";
+import theme01 from "../../assets/images/themes/theme01.png";
+import theme3 from "../../assets/images/themes/theme3.JPEG";
 import theme4 from "../../assets/images/themes/theme4.jpg";
 import theme5 from "../../assets/images/themes/theme5.jpg";
 import theme66 from "../../assets/images/themes/theme66.JPEG";
@@ -28,7 +28,7 @@ const blocks = [
     },
     {
       title: "VOX FACULTY",
-      image: theme33,
+      image: theme3,
       description: "Voxfaculty est un Magazine de rencontres et d'échanges scientifiques :  Conférences, tables rondes, colloques etc. Il consiste à retransmettre les événements tels que des séminaires, des colloques, des symposiums, là où naissent les idées qui façonnent notre avenir,c'est une émission qui plonge dans les coulisses des institutions scientifiques les plus prestigieuses. Entre Rencontres avec des chercheurs passionnés et découvertes des innovations qui transforment notre compréhension du monde. De la médecine de pointe à l'intelligence artificielle, en passant par les avancées environnementales et technologiques, à la Pointe de la Connaissance, nous prenons part à un voyage au cœur de la recherche et de l'éducation. Chaque épisode de 26 minutes comprendra des reportages sur le terrain, des interviews avec des chercheurs de renom, des démonstrations de technologies émergentes, et des discussions sur les enjeux éthiques et sociaux. L'approche sera à la fois informative et immersive, offrant aux téléspectateurs une compréhension approfondie du sujet traité et des développements actuels dans le domaine concerné. Ce programme est diffusé et rediffusé selon la programmation de la grille, sur WafricaTV et toutes ses plateformes numériques à l’occurrence sa chaîne YouTube, sa chaîne WhatsApp, Facebook, Télégramme et Instagram . ",
     },
     {
@@ -49,7 +49,7 @@ function Themes() {
     <>
       {/* <Nav /> */}
       <div className="mb-32 w-screen h-[70vh] bg-gray-800 flex justify-center items-center -z-10 overflow-hidden bg-black">
-        <img src={theme11} className="w-full bg-cover" /> 
+        <img src={theme01} className="w-full bg-cover" /> 
       </div>
       <div className="relative w-2/5 h-full mx-auto" style={{marginLeft:"55%"}}>
         <div className="px-14 py-6 absolute left-0 bottom-16 w-[30rem] bg-black/80 text-white">
