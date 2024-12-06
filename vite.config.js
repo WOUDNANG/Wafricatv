@@ -9,5 +9,8 @@ export default defineConfig(({ mode }) => {
       "process.env.REACT_APP_API_URL": JSON.stringify(env.REACT_APP_API_URL),
     },
     plugins: [react()],
+    build: {
+      assetsInclude: ["**/*.JPEG","**/*jpg","**/*.png","**/*png","**/*svg"],  //Inclure les fichiers images
+    }
   };
 });
