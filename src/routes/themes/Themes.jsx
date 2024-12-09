@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 import theme01 from "../../assets/images/themes/theme01.png";
-import theme3 from "../../assets/images/themes/theme3.JPEG";
+import theme3 from "../../assets/images/themes/theme3.png";
 import theme4 from "../../assets/images/themes/theme4.jpg";
 import theme5 from "../../assets/images/themes/theme5.jpg";
 import theme66 from "../../assets/images/themes/theme66.JPEG";
