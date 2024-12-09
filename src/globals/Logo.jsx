@@ -1,6 +1,6 @@
 import React from "react";
 import logoGaspi from "../assets/images/logo/Gaspi.png";
-import logoColor from "../assets/images/logo/logo france1.PNG";
+import logoColor from "../assets/images/logo/logofrance1.png";
 
 
 function Logo({ type }) {
