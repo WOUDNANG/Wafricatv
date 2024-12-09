@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import { Splide, SplideSlide, SplideTrack } from "@splidejs/react-splide";
 import "@splidejs/react-splide/css";
-import imageHome from "../../../assets/images/home/home12.PNG"
+import imageHome from "../../../assets/images/home/home123.png"
 
 function Banner() {
   let options = {
