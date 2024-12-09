@@ -4,9 +4,9 @@ import theme01 from "../../assets/images/themes/theme01.png";
 import theme3 from "../../assets/images/themes/theme3.png";
 import theme4 from "../../assets/images/themes/theme4.jpg";
 import theme5 from "../../assets/images/themes/theme5.jpg";
-import theme66 from "../../assets/images/themes/theme66.JPEG";
-import theme77 from "../../assets/images/themes/theme77.jpg";
-import theme88 from "../../assets/images/themes/theme88.JPEG";
+import theme66 from "../../assets/images/themes/theme66.png";
+import theme77 from "../../assets/images/themes/theme77.png";
+import theme88 from "../../assets/images/themes/theme88.png";
 import theme9 from "../../assets/images/themes/theme9.jpeg";
 import {FaDiaspora, FaDonate, FaJoget, FaPeace, FaPeopleArrows, FaPeopleCarry, FaSatelliteDish} from 'react-icons/fa';
 
