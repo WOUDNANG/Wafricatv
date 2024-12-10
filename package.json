@@ -12,6 +12,10 @@
     "preview": "vite preview",
     "eject": "react-scripts eject"
   },
+  "engines":{
+    "node":"16.x" ,
+    "npm":"8.x"
+  },
   "dependencies": {
     "@hookform/resolvers": "^3.4.2",
     "@splidejs/react-splide": "^0.7.12",
